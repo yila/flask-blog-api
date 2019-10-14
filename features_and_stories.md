@@ -2,7 +2,8 @@
 
 ## Feature - View Blog
 ### Stories:
-1. As an authenticated user  
+1. **In progress**  
+   As an authenticated user  
    want to see my name when I go to the main page of the blog  
    So that I know that I authenticated successfully.
 2. As a person visiting the site  
